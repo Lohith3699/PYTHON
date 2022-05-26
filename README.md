@@ -1,6 +1,6 @@
 # PYTHON
-*unit 1
-*unit 2
-*unit 3
-*unit 4
-*unit 5
+*Unit 1
+*Unit 2
+*Unit 3
+*Unit 4
+*Unit 5
